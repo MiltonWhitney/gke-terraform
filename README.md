@@ -1,3 +1,27 @@
+Responsibilities & Achievements:
+
+Developed and containerized a RESTful Flask API with health and info endpoints.
+
+Built a Docker image and pushed it to Google Artifact Registry.
+
+Provisioned a single-node GKE cluster using Terraform and enabled API and billing integration.
+
+Deployed the API to GKE with Kubernetes manifests and exposed it via a LoadBalancer service.
+
+Implemented optional autoscaling to handle variable traffic loads.
+
+Created a Helm chart for reproducible deployments and version-controlled application management.
+
+Documented all processes in a comprehensive README, including local testing, GCP deployment, Helm chart usage, and useful CLI commands for maintenance and troubleshooting.
+
+Impact:
+
+Achieved a fully functional, cloud-hosted API deployment pipeline that demonstrates expertise in cloud-native application delivery, infrastructure as code, and DevOps practices.
+
+Created a reusable, production-ready template for deploying containerized applications on GKE, suitable for portfolio and interview demonstrations.
+
+
+
 This project demonstrates:
 
 * Cloud-native development & containerization
