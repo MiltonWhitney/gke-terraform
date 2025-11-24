@@ -1,4 +1,4 @@
-Responsibilities & Achievements:
+### Responsibilities & Achievements:
 
 Developed and containerized a RESTful Flask API with health and info endpoints.
 
@@ -14,7 +14,7 @@ Created a Helm chart for reproducible deployments and version-controlled applica
 
 Documented all processes in a comprehensive README, including local testing, GCP deployment, Helm chart usage, and useful CLI commands for maintenance and troubleshooting.
 
-Impact:
+### Impact:
 
 Achieved a fully functional, cloud-hosted API deployment pipeline that demonstrates expertise in cloud-native application delivery, infrastructure as code, and DevOps practices.
 
@@ -22,7 +22,7 @@ Created a reusable, production-ready template for deploying containerized applic
 
 
 
-This project demonstrates:
+### This project demonstrates:
 
 * Cloud-native development & containerization
 * Infrastructure-as-Code concepts
@@ -42,7 +42,7 @@ This project demonstrates:
 * Cloud networking fundamentals
 
 ---
-📦 Architecture Overview
+### 📦 Architecture Overview
 
           +------------------+
           |   Flask API      |
