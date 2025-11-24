@@ -43,6 +43,14 @@ This project demonstrates:
 
 ---
 📦 Architecture Overview
+flowchart TD
+    A[Flask API] --> B[Docker Container]
+    B --> C[Artifact Registry]
+    C --> D[GKE Cluster]
+    D --> E[LoadBalancer]
+    E --> F[External Access]
+
+
           +------------------+
           |   Flask API      |
           |  (Python/Gunicorn|
